@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="backgroud">
+    <file>background/initframe_resized.png</file>
+    <file>background/initframe.png</file>
+    <file>background/background.jpg</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>images/photo-camera.png</file>
+    <file>images/setting.png</file>
+    <file>images/stop.png</file>
+    <file>images/play.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>transparentLogo/hebmu.png</file>
+  </qresource>
+</RCC>
